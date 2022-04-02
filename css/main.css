@@ -609,7 +609,7 @@ nav.navbar{
     border-bottom: 2px #3c3c3c solid;
 }
 .a-hamburger__line:nth-child(3){
-    border-raduis: 0 0 10px 10px;
+    border-radius: 0 0 10px 10px;
 }
 #check-menu:checked ~ .main-menu{
     max-height: 500px;
